@@ -27,8 +27,8 @@ function Aboutme() {
               />
             </Carousel.Item>
             <Carousel.Item interval={1000}>
-              <img
-                src={img3}
+              <img 
+                src={img3} 
                 alt="Image 3"
                 style={{ width: '500px', height:"500px",paddingTop: '10px' }} // 1:1 aspect ratio
               />
